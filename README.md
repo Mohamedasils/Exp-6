@@ -1,8 +1,8 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
 
 ```
-Name: Preethi J
-Register no: 212223220080
+Name: MOHAMED ASIL S
+Register no: 212223040112
 
 ```
 
