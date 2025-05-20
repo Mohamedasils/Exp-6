@@ -5,65 +5,35 @@ Name: MOHAMED ASIL S
 Register no: 212223040112
 
 ```
+## AIM:To create UML diagrams for Student Online Exam Registration System
 
-# AIM:
-To design UML diagrams for a Student Online Exam Registration System to model its structure and functionality.
+## SRS (Procedure):
 
-# SRS (Procedure):
-# 1. Class Diagram
-Identify classes with attributes and methods.
-
-Define relationships (association, generalization, aggregation).
-
-Use class boxes and connectors.
-
-# 2. Use Case Diagram
-Identify actors and use cases.
-
-Draw actors outside, use cases inside the system boundary.
-
-Connect actors to use cases; use <<include>>, <<extend>> if needed.
-
-# 3. Activity Diagram
-Identify activities, decisions, start and end nodes.
-
-Use flow arrows, decision diamonds, and activity boxes.
-
-Represent process flow clearly.
-
-# 4. Package Diagram
-Group related classes into packages.
-
-Draw packages using folder-like symbols.
-
-Show dependencies between packages with dashed arrows.
-
-# 5. Sequence Diagram
-Identify objects and message sequence.
-
-Draw lifelines vertically.
-
-Use horizontal arrows for messages (in order from top to bottom).
-
-Show activation bars if needed.
-
-# 6. Communication Diagram
-Identify objects and interactions.
-
-Represent objects as boxes connected by lines.
-
-Label messages with sequence numbers and direction arrows.
+Create the following diagrams in StarUML:
+1) Use Case Diagram
+2) Class Diagram
+3) Activity Diagram
+4) Package Diagram
+5) Communication Diagram
+6) Sequence Diagram
 
 
+## DIAGRAMS:
+### USE CASE DIAGRAM:
+![image](https://github.com/user-attachments/assets/eca52358-c8ad-4075-8db3-bc04634f958e)
+### CLASS DIAGRAM:
+![image](https://github.com/user-attachments/assets/e4dddf87-a1be-4bfe-8b9e-bad491d676ac)
+### PACKAGE DIAGRAM:
+![image](https://github.com/user-attachments/assets/af4e8cae-4624-4084-8cc8-812cb45be4ad)
+### SEQUENCE DIAGRAM:
+![image](https://github.com/user-attachments/assets/582648e5-bcde-4217-9fe7-7cc3d70ff5b4)
+### ACTIVITY DIAGRAM:
+![image](https://github.com/user-attachments/assets/80bf454f-d559-469c-a462-99721f1dc4d1)
+
+### COMMUNICATION DIAGRAM:
+![image](https://github.com/user-attachments/assets/031a937a-9c45-4cb8-8415-2ac2b6a6f1b8)
 
 
-# DIAGRAMS:
-# Use case Diagram
-# Class Diagram
-# Activity Diagram
-# Package Diagram
-# Sequence Diagram
-# Communication Diagram
+## RESULT:
+Thus, the UML diagrams for Student Online Exam Registration System has been created successfully.
 
-# RESULT:
-Thus,UML diagrams for a Student Online Exam Registration System to model its structure and functionality is completed successfully.
